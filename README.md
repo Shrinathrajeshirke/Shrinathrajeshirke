@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shrinathrajeshirke
-- 👀 I’m interested in data analysis and data visualization.
-- 🌱 I’m currently expanding my knowledge of R and python for data analysis.
+- 👀 I’m data analyst & statistician.
+- I did my post graduation in statistics.
+- 🌱 I’m currently increasing knowledge of R, python for data analysis & Tableau, Power BI for data visualization.
 - 📫 How to reach me --- Reach me via my mail id "shrinathrajeshirke@gmail.com"
 
