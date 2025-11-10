@@ -1,6 +1,8 @@
 👋 Hi, I'm Shrinath Rajeshirke
 Data Scientist | ML Engineer | AI Enthusiast
+
 🚀 About Me
+
 I'm a Data Scientist at Infosys with 3.5+ years of experience building ML/AI solutions that drive business impact. Passionate about deep learning, generative AI, and turning complex data into actionable insights.
 
 🔭 Currently working on Stock Market Prediction Systems and Agricultural AI
